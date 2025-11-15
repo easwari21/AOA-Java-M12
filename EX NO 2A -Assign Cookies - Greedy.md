@@ -58,6 +58,9 @@ public class AssignCookies {
 }
 ```
 ## Output:
+
 <img width="363" height="348" alt="512703936-a26571d2-ff87-4db9-a8b4-abc089e04f62" src="https://github.com/user-attachments/assets/31e11d8e-e716-4f54-bacf-c4fcc20a115f" />
+
+
 ## Result:
 The program successfully print all the numbers from 1 to N. 
